@@ -6,6 +6,12 @@ tidyr
 
 plyr and/or dplyr
 
+Reshape
+
+tourr
+
+Lattice
+
+lubridate
+
 ggplot
-
-
