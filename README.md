@@ -6,12 +6,14 @@ tidyr
 
 plyr and/or dplyr
 
-Reshape
+reshape
+
+stringr
 
 tourr
 
-Lattice
-
 lubridate
+
+lattice
 
 ggplot
