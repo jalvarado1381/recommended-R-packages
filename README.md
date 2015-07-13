@@ -2,6 +2,11 @@
 Introduction to recommended packages to have always installed with R
 
 ##Package List
+
+downloader
+
+devtools
+
 tidyr
 
 plyr and/or dplyr
